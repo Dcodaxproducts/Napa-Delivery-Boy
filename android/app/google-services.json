@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057042644731",
+    "project_id": "napa-stores-44cb6",
+    "storage_bucket": "napa-stores-44cb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057042644731:android:ce65b6ead157bff7833a5e",
+        "android_client_info": {
+          "package_name": "com.napa.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057042644731-thnl9bjgksu5hs6ibc39d64q8l7iuijs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsjJ02PwlFSDWS5Mmi18iPW7xWAMRSonY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057042644731-thnl9bjgksu5hs6ibc39d64q8l7iuijs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
